@@ -1,0 +1,25 @@
+@import url("https://use.typekit.net/hqh8zfz.css");
+
+body{
+    background-color: rgb(49, 49, 49);
+    color: whitesmoke; 
+}
+
+a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.p1{
+    text-align: right;
+}
+
+.p8{
+    text-align: left;
+}
+
+.zine{
+    text-align: center;
+    justify-content: center;
+}
